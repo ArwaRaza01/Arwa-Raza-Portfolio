@@ -1,0 +1,37 @@
+Arwa Raza
+Computer Science Graduate | Full Stack Developer | AI & ML Enthusiast
+
+Email: arwa.raza@gmail.com   Phone: 03030423344
+Location: DHA Rahbar, Phase 11, Street 4, Block C, House 171, Lahore, Pakistan
+
+PROFILE
+Motivated and detail-oriented Computer Science graduate with hands-on experience developing full-stack web applications and AI-assisted software solutions through academic projects. Skilled in HTML, CSS, JavaScript, React, Express.js, Python, Git, API integration, and Machine Learning.
+
+EDUCATION
+- Bachelor of Computer Science, University of Management and Technology (2024 – 2026)
+- Associate Degree in Information Technology Management, University of Management and Technology (2022 – 2024)
+- ICS (Physics), Punjab Group of Colleges (2020 – 2022)
+- Matric (Computer Science), Iqra Taleem-ul-Aftal Foundation (2018 – 2020)
+
+EXPERIENCE
+- Graphic Design Intern, Brainetwork (2024)
+   • Designed professional flyers using Adobe Photoshop.
+   • Created marketing materials based on company requirements.
+   • Edited images, typography, and layouts.
+   • Improved creativity and visual communication skills.
+
+PROJECTS
+- Virtual Car Showroom (React, JavaScript, Express.js, HTML, CSS, Git, GitHub)
+   A modern Full Stack Virtual Car Showroom built with React, Express.js and JavaScript, enhanced with AI-powered features that help buyers explore, compare and choose vehicles.
+- Machine Learning Prediction System (Python, Pandas, NumPy, Matplotlib, Scikit-Learn, Streamlit)
+   A Machine Learning application that compares multiple algorithms and Neural Networks for prediction, wrapped in an interactive Streamlit interface.
+- Responsive Clothing Website (HTML, CSS, JavaScript)
+   A responsive clothing website designed and developed with HTML, CSS and JavaScript, focused on a clean product showcase and a polished modern interface.
+
+SKILLS
+- Programming: Python, JavaScript
+- Frontend: HTML, CSS, React
+- Backend: Express.js, Node.js, EJS
+- Machine Learning: Pandas, NumPy, Matplotlib, Scikit-Learn, Streamlit
+- Tools: Git, GitHub, VS Code, Cursor AI, Bolt AI, Adobe Photoshop
+- Soft Skills: Leadership, Problem Solving, Communication, Teamwork, Project Planning, Time Management
